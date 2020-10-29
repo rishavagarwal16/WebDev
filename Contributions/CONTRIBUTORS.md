@@ -15,6 +15,6 @@ Add your name and link to your GitHub account below after you have contributed t
 2. Ishan Kumar [GitHub Account](https://www.github.com/IshanKumar2001)
 3. Abhirup Chakraborty [GitHub Account](https://www.github.com/yoloabhi)
 4. Anmol Srivastava [GitHub Account](https://www.github.com/anmolsri150)
-
-
-rajit_kuthiala(changed antique to heirloom)
+5. Jasraj Singh Juneja [GitHub Account](https://www.github.com/factualsquirrel)
+6. Raina Jangid [GitHub Account](https://github.com/rainajangid)
+7. Rajit Kuthiala
