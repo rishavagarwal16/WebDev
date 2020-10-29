@@ -17,5 +17,3 @@ Add your name and link to your GitHub account below after you have contributed t
 4. Anmol Srivastava [GitHub Account](https://www.github.com/anmolsri150)
 5. Jasraj Singh Juneja [GitHub Account](https://www.github.com/factualsquirrel)
 6. Raina Jangid [GitHub Account](https://github.com/rainajangid)
-
-Raina Jangid-github is the "facebook" of git.
